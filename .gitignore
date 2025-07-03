@@ -1,8 +1,9 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Environment-dependent path to Maven home directory
 /mavenHomeManager.xml
 .DS_Store
 .idea/
 target/
+*.log
