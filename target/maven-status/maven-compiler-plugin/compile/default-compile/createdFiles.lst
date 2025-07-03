@@ -1,0 +1,16 @@
+com/example/job_platform/service/JobPostingService.class
+com/example/job_platform/controller/AuthController.class
+com/example/job_platform/util/JwtUtil.class
+com/example/job_platform/config/CorsConfig.class
+com/example/job_platform/model/User.class
+com/example/job_platform/dto/JobRecommendation.class
+com/example/job_platform/config/SecurityConfig.class
+com/example/job_platform/controller/JobPostingController.class
+com/example/job_platform/JobPlatformAuthApplication.class
+com/example/job_platform/service/ResumeService.class
+com/example/job_platform/controller/ResumeController.class
+com/example/job_platform/model/JobPosting.class
+com/example/job_platform/service/UserService.class
+com/example/job_platform/repository/UserRepository.class
+com/example/job_platform/repository/JobPostingRepository.class
+com/example/job_platform/config/MongoGridFsConfig.class

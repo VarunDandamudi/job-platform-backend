@@ -1,0 +1,16 @@
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/JobPlatformAuthApplication.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/config/CorsConfig.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/config/MongoGridFsConfig.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/config/SecurityConfig.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/controller/AuthController.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/controller/JobPostingController.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/controller/ResumeController.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/dto/JobRecommendation.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/model/JobPosting.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/model/User.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/repository/JobPostingRepository.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/repository/UserRepository.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/service/JobPostingService.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/service/ResumeService.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/service/UserService.java
+/Users/varundandamudi/Desktop/job-platform/backend/src/main/java/com/example/job_platform/util/JwtUtil.java
